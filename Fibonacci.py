@@ -1,4 +1,4 @@
-print("The Fibonacco series for 16")
+print("The Fibonacci series for 16")
 def fib(n):
     if n == 0:
         return 0
